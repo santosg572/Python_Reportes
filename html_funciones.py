@@ -20,5 +20,12 @@ def p(pp=''):
   ss = '<p>' + pp + '</p>'
   return ss
 
+def fontt():
+  f = '<font size="5">'
+  return f
+
+def end_fontt():
+  f = '</font>'
+  return f  
 
 
